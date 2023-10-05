@@ -13,4 +13,5 @@
   - Output
     ![NeRF](model/NeRF/imgs/orchids_test_spiral_100000_rgb.mp4)
   - Visualization of Train steps
-    ![NeRF](model/NeRF/imgs/training.gif)
+
+![NeRF](model/NeRF/imgs/training.gif)
