@@ -1,12 +1,12 @@
-# 23-2_DSL_Modeling_each_team_project_name
+# 23-2_DSL_Modeling_3D_Style_with_NeRF
 ---
-## 주제
-## Team A 팀장 팀원 팀원 팀원
+## NeRF Exhibition : 3D 명화 모델링
+## Team A 9기 김서진 9기 박서연 9기 임선민 10기 윤형진
 ---
 # Overview
 [발표자료](팀별/깃허브_내_발표자료_주소)
 ## 1. Overall Pipeline
-(이미지)
+![파이프라인](/model/imgs/Nerf.png)
 (설명은 마음대로)
 ## 2. Model
 (설명 마음대로, 발표자료 캡쳐 활용 등 자유롭게)
