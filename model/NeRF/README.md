@@ -9,6 +9,7 @@
     ![NeRF](model/NeRF/imgs/Nerf.png)
   - Input Images
     ![NeRF](model/NeRF/imgs/Input.png)
+    <img src="model/NeRF/imgs/Input.png">
   - Output
     ![NeRF](model/NeRF/imgs/orchids_test_spiral_100000_rgb.mp4)
   - Visualization of Train steps
