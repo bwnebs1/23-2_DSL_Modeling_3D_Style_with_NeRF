@@ -40,7 +40,7 @@
 * Style Transfer 모델 **AdaIN(Adaptive Instance Normalization)**
 * 3D view를 생성하는 모델 **NeRF(Neural Radiance Fields)**
 
-를 활용하여, 기존의 NeRF 데이터셋에 화풍을 입히고 이를 3D로 구현하는 하나의 파이프라인을 완성하였습니다.  
+를 활용해, 기존 NeRF 데이터셋에 화풍을 입히고 3D로 구현하는 하나의 파이프라인을 완성하였습니다.  
 
 ## 🗂️ 2.Dataset
 
