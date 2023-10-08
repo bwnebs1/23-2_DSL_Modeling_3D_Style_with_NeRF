@@ -2,7 +2,10 @@
 
 🥇**DSL 23-2 모델링 프로젝트 우수팀 선정**🥇
 
-# 🏛️ Team Information
+프로젝트 결과물로 구성한 메타버스 전시회에 놀러오세요!  
+↪️[🖼️ 메타버스 전시회](https://www.spatial.io/s/DSL-3D-Art-Exhibition-651d688e9f9634efe508c13a)
+
+## 🏛️ Team Information
 
 연세대학교 데이터사이언스 학회 Data Science Lab 9기 & 10기,  
 **Team CV_B**,
@@ -13,9 +16,6 @@
 
 :film_strip: 발표 영상 &rarr; 추후 추가 예정  
 [:books: 발표 자료](https://github.com/ydduri/DSL_23-2_3D_Exhibition/blob/main/CV_B_3D_Exhibition_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)(Pull requests 후 링크 수정 예정)  
-
-프로젝트 결과물로 구성한 메타버스 전시회에 놀러오세요!  
-↪️[🖼️ 메타버스 전시회](https://www.spatial.io/s/DSL-3D-Art-Exhibition-651d688e9f9634efe508c13a)
 
 ## :loud_sound: Project Introduction
 
