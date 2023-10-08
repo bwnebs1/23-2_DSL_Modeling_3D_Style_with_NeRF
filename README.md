@@ -5,7 +5,7 @@
 프로젝트 결과물로 구성한 메타버스 전시회에 놀러오세요!  
 ↪️[🖼️ 메타버스 전시회](https://www.spatial.io/s/DSL-3D-Art-Exhibition-651d688e9f9634efe508c13a)
 
-## 🏛️ Team Information
+## 🏛️ Curator Information
 
 연세대학교 데이터사이언스 학회 Data Science Lab 9기 & 10기,  
 **Team CV_B**,
@@ -105,22 +105,41 @@ view synthesis란 몇 개의 시점에서 촬영된 불연속적 이미지로부
 **(2) Volume Rendering**  
 모델의 output인 한 ray상의 여러 sample 포인트에서의 RGB, density값을 하나의 pixel로 병합
 
-## 🖼️ Result
-### 1. Final Output
-(결과 이미지 등)  
+## 🖼️ 4. Result
+### 1) Final Output
+* ### Successful Output
+|input|output|  
+| :---: | :---: |  
+|<img src="https://github.com/ydduri/BOJ_mycode/assets/63230753/d62a9861-b2d0-4edc-ba3f-a1a6f13f42c2" width="300">|<img src="https://github.com/ydduri/BOJ_mycode/assets/63230753/f4f8afaa-affb-4d47-a003-7b2ed9a2bb59" width="300">|  
+|<img src="https://github.com/ydduri/BOJ_mycode/assets/63230753/629a3ef2-8b88-41e6-bf1f-333ac5770388" width="300">|<img src="" width="300">|  
+|||
 
-## 2. Limitations and Future works
-(의의, 한계, 발전방향 등등)
+* ### Failure
+|input|output|  
+| :---: | :---: |  
 
-# 🏃 How to Run?
-(optional, 가능하다면 코드를 다시 실행해볼 수 있도록 코드 블럭을 활용하여 완성해주시면 좋을 것 같습니다.)
-(ex)
+### 2) Limitations and Future Works
+* ### Limitations
+  1. 라이브러리 설치 문제로 Colmap 사용 실패  
+     colmap을 통해 카메라 매개변수를 직접 얻는 데 실패하여 기존 데이터셋의 positional encoding 변수 활용
+     
+  3. 모델 size  
+     Tensorflow 기반 공식 코드의 모델 사이즈 및 데이터셋이 커서 PyTorch 버전으로 재설계, 서버 활용 학습  
+
+* ### Future Works
+  1. end-to-end 모델로 완성하기 위한 작업 진행 중  
+  2. 보다 발전된 버전의 NeRF 사용하여 모델 고도화
+  3. 직접 촬영한 이미지로도 학습 예정
+  
+
+## 🏃 How to Run?
+(end-to-end로 완성하는 작업 마무리 이후 추가 예정)
 
 ```ruby
 python run.py --config configs.txt
 ```
 
-# File description
+## 📂 File description
 - main (실제 구동하는 파일)
   - ```main.py```  
 - model (모델 내부 구조 파일)
