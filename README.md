@@ -107,16 +107,24 @@ view synthesis란 몇 개의 시점에서 촬영된 불연속적 이미지로부
 
 ## 🖼️ 4. Result
 ### 1) Final Output
+
+.mp4를 .gif로 변환하여 업로드하는 과정에서 부득이하게 화질 저하가 발생하여  
+원본은 [**<ins>메타버스 전시회</ins>**](https://www.spatial.io/s/DSL-3D-Art-Exhibition-651d688e9f9634efe508c13a)에서 확인 부탁드립니다!
+
 * ### Successful Output
 |input|output|  
 | :---: | :---: |  
-|<img src="https://github.com/ydduri/BOJ_mycode/assets/63230753/d62a9861-b2d0-4edc-ba3f-a1a6f13f42c2" width="300">|<img src="https://github.com/ydduri/BOJ_mycode/assets/63230753/f4f8afaa-affb-4d47-a003-7b2ed9a2bb59" width="300">|  
-|<img src="https://github.com/ydduri/BOJ_mycode/assets/63230753/629a3ef2-8b88-41e6-bf1f-333ac5770388" width="300">|<img src="" width="300">|  
-|||
+|<img src="https://github.com/ydduri/BOJ_mycode/assets/63230753/d62a9861-b2d0-4edc-ba3f-a1a6f13f42c2" width="300">|<img src="https://github.com/ydduri/BOJ_mycode/assets/63230753/4eedad06-4dc6-4cce-9923-f6e60e19e25c" width="300">|  
+|<img src="https://github.com/ydduri/BOJ_mycode/assets/63230753/629a3ef2-8b88-41e6-bf1f-333ac5770388" width="300">|<img src="https://github.com/ydduri/BOJ_mycode/assets/63230753/5ec63503-4f30-4520-846e-eebaaeda571b" width="300">|  
+|<img src="https://github.com/ydduri/BOJ_mycode/assets/63230753/14e475d1-ffae-4f7d-a4de-ac5b881ccee1" width="300">|<img src="https://github.com/ydduri/BOJ_mycode/assets/63230753/e5a87f8b-2bdf-418e-a000-8d8e536a818e" width="300">|  
+|<img src="https://github.com/ydduri/BOJ_mycode/assets/63230753/c6e2f06e-f8a6-4313-8dc1-2b205eadb781" width="300">|<img src="https://github.com/ydduri/BOJ_mycode/assets/63230753/9ec20754-f394-4b83-9568-2777fc795423" width="300">|  
 
 * ### Failure
 |input|output|  
 | :---: | :---: |  
+|<img src="https://github.com/ydduri/BOJ_mycode/assets/63230753/d6d665a8-d731-42c4-897c-397109c072e4" width="300">|<img src="https://github.com/ydduri/BOJ_mycode/assets/63230753/1da289d1-cb5d-4fed-875c-caad6a79176f" width="300">|  
+|<img src="https://github.com/ydduri/BOJ_mycode/assets/63230753/a1877e89-583a-4ff9-83ca-9c9cb7a5bbf0" width="300">|<img src="https://github.com/ydduri/BOJ_mycode/assets/63230753/6aea0156-c2e1-42dd-9e0b-10ab1f1023d9" width="300">|  
+|<img src="https://github.com/ydduri/BOJ_mycode/assets/63230753/2c5be717-e9b4-407e-b739-a4a5c2a0f83f" width="300">|<img src="https://github.com/ydduri/BOJ_mycode/assets/63230753/93824bf7-8f1c-4ad6-8184-280cb3537bee" width="300">|  
 
 ### 2) Limitations and Future Works
 * ### Limitations
