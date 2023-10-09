@@ -15,7 +15,7 @@
 | [김서진](https://github.com/bwnebs1) | [박서연](https://github.com/ydduri) | [윤형진](https://github.com/youravgENTP) | [임선민](https://github.com/smlim02) |
 
 :film_strip: 발표 영상 &rarr; 추후 추가 예정  
-[:books: 발표 자료](https://github.com/ydduri/DSL_23-2_3D_Exhibition/blob/main/CV_B_3D_Exhibition_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)(Pull requests 후 링크 수정 예정)  
+[:books: 발표 자료](https://github.com/ydduri/DSL_23-2_3D_Exhibition/blob/main/CV_B_3D_Exhibition_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)  
 
 ## :loud_sound: Project Introduction
 
