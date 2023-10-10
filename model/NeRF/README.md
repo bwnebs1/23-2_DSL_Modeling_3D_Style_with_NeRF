@@ -4,13 +4,13 @@
 - [Author's implementation of NeRF](https://github.com/yenchenlin/nerf-pytorch)
 - Model Structure
   - Original NeRF
-![NeRF](/imgs/pipeline.jpg)
+![NeRF](./imgs/pipeline.jpg)
   - Our model's Structure
-    ![NeRF](/imgs/Nerf.png)
+    ![NeRF](./imgs/Nerf.png)
   - Input Images
-    ![NeRF](/imgs/Input.png)
+    ![NeRF](./imgs/Input.png)
   - Output
-    ![NeRF](/imgs/orchids_test_spiral_100000_rgb.mp4)
+    ![NeRF](./imgs/orchids_test_spiral_100000_rgb.mp4)
   - Visualization of Train steps
 
-![NeRF](/imgs/training.gif)
+![NeRF](./imgs/training.gif)
